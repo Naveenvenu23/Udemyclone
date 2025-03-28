@@ -1,4 +1,4 @@
-🚀 Udemy Programming Course Website – Frontend Only
+🚀 Udemy Programming Course Website – Frontend
 
 This is the frontend for a Udemy-style programming course platform built with modern web technologies. The website features an intuitive and responsive UI, allowing users to browse courses, view course details, and access information about instructors.
 
